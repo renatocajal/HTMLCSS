@@ -1,0 +1,3 @@
+Arquivos do diretorio e finalidade.
+#LinkBio.html = Modelo de página de link na bio, na palheta
+Preto e Dourado.
