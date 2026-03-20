@@ -1,5 +1,5 @@
 # HTMLCSS
-Este repositório reúne páginas de landing pages desenvolvidas em HTML e CSS puro, com foco em simplicidade, estética e fácil personalização.
+Este repositório reúne páginas de landing pages e link na bio desenvolvidas em HTML e CSS puro, com foco em simplicidade, estética e fácil personalização.
 
 Os projetos seguem o conceito de arquivos únicos (HTML com CSS embutido), facilitando o uso, edição e publicação sem dependência de frameworks ou ferramentas externas.
 
